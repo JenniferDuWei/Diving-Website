@@ -36,10 +36,6 @@
                         </a>
                         <div class="header_social_button_sapcer"></div>
                         <div class="header_social_buttons">
-                            <div class="Ssocial">
-                                <img class="spacer" alt="" src="<?php bloginfo('template_url'); ?>/images/Social_spacer.png">
-                                <img class="sprite s2" alt="" src="<?php bloginfo('template_url'); ?>/images/social_icons_SCDC.jpg">
-                            </div>
                         </div>
                         <div class="header_social_button_sapcer"></div>
                         <div class="header_social_buttons">
@@ -50,15 +46,15 @@
                         </div>
                     </div>
                 </div>
+                <!-- SCDC text -->
+                <div class="header_text text_shadow">
+                    <br>
+                    
+                </div>
                 <!-- SCDC logo -->
                 <div class="header_logo">
                     <img src="<?php bloginfo('template_url'); ?>/images/SCDC_logo.png" width="100%" height="100%">
                 </div>   
-                <!-- SCDC text -->
-                <div class="header_text text_shadow">
-                    South China<br>
-                    Diving Club
-                </div>
                 <div class="header_spacer"></div>
             </div>
          </div>
@@ -153,7 +149,7 @@
                         <!-- Our Sponsors -->
                         <div class="main_section_containers box_shadows_normal">
                         	<div class="sponsor_container">
-                            	<div class="sponsor_text">Our partners</div>
+                            	<div class="sponsor_text">Our Partners</div>
                                 <div id="sponsor_slide" class="flexslider">
                                     <ul class="slides">
                                     <!-- sponsors MD and scoty -->
@@ -315,7 +311,7 @@
                         	<div class="main_section_spacer_top"></div>
                             <div class="main_section_encapsulation">
                             	<div class="comity_container">
-                            		<div class="sponsor_text">Our Comity</div>
+                            		<div class="sponsor_text">Our Committee</div>
                                     <div class="comity_top">
                                         <div id="comity_slide" class="flexslider">
                                         <ul class="slides">
