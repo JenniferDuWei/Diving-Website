@@ -568,7 +568,7 @@
                     </div>
                     <div class="expand_bottom">
                     	<div class="expand_container">
-                        	<div class="contact_top">Our Comity</div>
+                        	<div class="contact_top">Our Committee</div>
                             <div class="main_spacer"></div>
                             <comity1>
                                 <!-- Andy C--> 
