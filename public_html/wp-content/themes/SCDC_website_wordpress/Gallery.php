@@ -54,13 +54,17 @@ Template Name: Gallery
                         </div>
                     </div>
                 </div>
+<!-- ACLC 4/8/14: Moved empty 'header_text' in front of logo to make consistent with main homepage -->
+		<div class="header_text"><br /></div>
                 <div class="header_logo">
                 	<img src="<?php bloginfo('template_url'); ?>/images/SCDC_logo.png" width="100%" height="100%">
                 </div>
+<!-- ACLC 4/8/14: removed text to make consistent with main homepage template
                 <div class="header_text">
                 	South China<br>
                     <span class="header_text_large">Dive Club</span>
                 </div>
+-->
                 <div class="header_spacer"></div>
             </div>
          </div>

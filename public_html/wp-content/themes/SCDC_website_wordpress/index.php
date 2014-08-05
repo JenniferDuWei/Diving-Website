@@ -270,7 +270,7 @@
                                     	<img src="<?php bloginfo('template_url'); ?>/images/pic_1_gallery.jpg" width="100%" height="100%">
                                     </div>
                                     <div class="main_section_expand">
-                                    	<a href="gallery">
+                                    	<a href="/gallery">
                                         <div class="main_expand_button">
                                             <img src="<?php bloginfo('template_url'); ?>/images/expand icon.png" width="100%" height="100%">
                                         </div>
@@ -352,7 +352,7 @@
                                             </div>
                                             <div class="comity_spacer"></div>
                                             <div class="comity_picture box_shadows_normal">
-                                                <img src="<?php bloginfo('template_url'); ?>/images/comity/Jenifer_duWei.jpg" width="100%" height="100%">
+                                                <img src="<?php bloginfo('template_url'); ?>/images/comity/Jennifer_duWei.jpg" width="100%" height="100%">
                                             </div>
                                         </li>
                                         </ul>

@@ -90,6 +90,10 @@ a,img{border:none;text-decoration:none;color:#294f5e;padding:0;margin:0;}
 .contact_spacer{position:relative;float:left;width:25px;height:100%;}
 .Form_box{background-color:#b9e7fa;border:1px solid #7fafc3;height:25px;font-family:header_text;-moz-border-radius: 8px;border-radius: 8px;text-indent:8px;font-size:16px;line-height:16px;max-width:270px;padding:0;margin:0 auto;width:270px;color:#294f5e;}
 .Contact_refresh_button{position:absolute;left:112px;top:0;width:30px;height:30px;background-image:url(images/refresh_button.png);z-index:2;}
+/* ACLC 4/8/14: Added link styles for FAQ */
+#FAQ a{color: red;}
+#FAQ a:hover{text-decoration:underline;}
+#FAQ .expand_container{height:100%;overflow:auto;}
 /*Comity*/
 .comity_container{position:relative;width:510px;height:400px;left:20px;}
 .comity_top{position:relative;width:100%;height:290px;overflow:hidden;}
